@@ -119,7 +119,7 @@ async def setup_hook():
 
 bot.setup_hook = setup_hook
 
-bot.run(os.getenv("MTQ5MTkwNzIwNjYwNDUyMTU5Ng.GqHnDK.obi0UNP9oioliOJXuGSRfR0TSR0wGD8Uv7qayo"))
+bot.run(os.getenv(""))
 
 
 
